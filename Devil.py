@@ -74,7 +74,7 @@ logo='''
 
 \033[1;91m☞ Auther     : DEVIL JUTT 👿 & PATHAN SHERNI JAHAZ WALI ✈️
 \033[1;92m☞ WhatsApp   : 03086867183
-\033[1;95m☞ FACEBOOK    : https://www.facebook.com/deviljutt301
+\033[1;95m☞ FACEBOOK    : https://www.facebook.com/devil.jutt301
 
 \033[1;93m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                 '''
@@ -146,10 +146,11 @@ def menu():
 	print (S + 50*'-')
 	print
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update B4_BALOCH Tool')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' B4_BALOCH WhatsApp Group')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' Update DEVIL JUTT Tool')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' DEVIL WhatsApp Group')
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit')
+        print (S + '[' + Y + '☞0' + S + ']' + R + ' Nacho 😉')
 	print
 	print (S + 50*'-')
 	print
@@ -184,13 +185,10 @@ def mb():
 	    psb('Congratulations DEVIL Tool Has Been Updated Successfully')
 	    psb('🔓User Name☆ DEVIL✓')
 	    psb('🔓Password ☆ JUTT✓')
-	    psb('Subscrib My FACEBOOK ACCOUNT devil.jutt301✓')
+	    psb('My FACEBOOK ACCOUNT devil.jutt301✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd $HOME/DEVIL JUTT && python2 DJ.py')
-	elif bm =='3':
-	    os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi')
-	    menu()
+	    os.system('cd $HOME/DEVIL JUTT && python2 Devil.py')
 	elif bm =='4':
 		psb('Token Has Been Removed')
 		trb()
@@ -352,12 +350,12 @@ def pb():
 	print
 	print(S+50*'-')
 	print
-	print(S+'Process has been completed CP ID Open After 7 Days ')
+	print(S+'Process has been completed CP ID Open After 10 Years 😜😜')
 	print(Y+'Total '+G+'OK'+S+'/'+P+'CP'+S+' = '+G+str(len(oks))+S+'/'+R+str(len(cps)))
-	print(S+'BlackMafia')     
+	print(S+'Devil Jutt')     
 	print
 	raw_input(R + 'Back')
-	os.system('python2 DJ.py')
+	os.system('python2 Devil.py')
 if __name__=='__main__':
     login()
 
